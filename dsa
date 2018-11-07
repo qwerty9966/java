@@ -1,0 +1,11 @@
+public class data {
+    public static void main(String[] args) {
+        int myAge = 23;
+        float weight = 60.5f;
+        double height = 322.4;
+        long distance = 12166666l;
+        char gender = 'm';
+        boolean has_job = true;
+        System.out.print(myAge);
+
+    }
