@@ -1,0 +1,73 @@
+Skip to content
+ 
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ @qwerty9966 Sign out
+0
+0 0 qwerty9966/java
+ Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights  Settings
+java/ 
+Name your file…
+ or cancel
+ 
+search :tipuri de date primitive!!!!!!
+
+cod ziua 3 :
+public class Data {
+    public static void main(String[] args) {
+        int myAge = 23;
+        float weight = 60.5f;
+        double height = 322.4;
+        long distance = 1212666623;
+        char gender = 'm';
+        char test = 9;
+        boolean isStudent = false;
+        boolean has_job = true;
+        int test2 = (int) weight;
+        System.out.print(test);
+        System.out.print(test2);
+        String mesaj1 = "Hello";
+        String mesaj2 = "Goodbye";
+        String mesaj = mesaj1 + mesaj2;
+        System.out.println("mesaj");
+
+        double a = 5;
+        int b = 2;
+        double c=a / b;
+        System.out.println(c);
+
+        int x=10;
+        int y = x;
+        x++;
+        System.out.println(y);
+    }
+}
+
+@qwerty9966
+Commit new file
+
+Create new file
+
+Add an optional extended description…
+  Commit directly to the master branch.
+  Create a new branch for this commit and start a pull request. Learn more about pull requests.
+
+qwerty9966-patch-3
+ 
+© 2018 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Press h to open a hovercard with more details.
